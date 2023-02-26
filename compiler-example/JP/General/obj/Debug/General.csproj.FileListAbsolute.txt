@@ -1,0 +1,4 @@
+C:\TONI\Source2015\JP\General\bin\Debug\General.dll
+C:\TONI\Source2015\JP\General\bin\Debug\General.pdb
+C:\TONI\Source2015\JP\General\obj\Debug\General.dll
+C:\TONI\Source2015\JP\General\obj\Debug\General.pdb

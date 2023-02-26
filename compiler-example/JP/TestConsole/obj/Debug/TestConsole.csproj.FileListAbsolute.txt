@@ -1,0 +1,41 @@
+C:\TONI\Source2015\JP\TestConsole\bin\Debug\TestConsole.exe.config
+C:\TONI\Source2015\JP\TestConsole\bin\Debug\TestConsole.exe
+C:\TONI\Source2015\JP\TestConsole\bin\Debug\TestConsole.pdb
+C:\TONI\Source2015\JP\TestConsole\bin\Debug\LIB.dll
+C:\TONI\Source2015\JP\TestConsole\bin\Debug\LIB.pdb
+C:\TONI\Source2015\JP\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\TONI\Source2015\JP\TestConsole\obj\Debug\TestConsole.exe
+C:\TONI\Source2015\JP\TestConsole\obj\Debug\TestConsole.pdb
+C:\MY\NASTAVA\JP\JP\TestConsole\bin\Debug\TestConsole.exe.config
+C:\MY\NASTAVA\JP\JP\TestConsole\obj\Debug\TestConsole.exe
+C:\MY\NASTAVA\JP\JP\TestConsole\obj\Debug\TestConsole.pdb
+C:\MY\NASTAVA\JP\JP\TestConsole\bin\Debug\TestConsole.exe
+C:\MY\NASTAVA\JP\JP\TestConsole\bin\Debug\TestConsole.pdb
+C:\MY\NASTAVA\JP\JP\TestConsole\bin\Debug\LIB.dll
+C:\MY\NASTAVA\JP\JP\TestConsole\bin\Debug\LIB.pdb
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\bin\Debug\TestConsole.exe.config
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\bin\Debug\TestConsole.exe
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\bin\Debug\TestConsole.pdb
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\bin\Debug\LIB.dll
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\bin\Debug\LIB.pdb
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\obj\Debug\TestConsole.exe
+D:\FAKS\JEZICNI PROCESORI\JP\TestConsole\obj\Debug\TestConsole.pdb
+C:\MY\NASTAVA\JP\JP\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\MY\NASTAVA\JP\JP\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\MY\NASTAVA\JP\JP\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Users\domes\Desktop\JP45\JP\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\domes\Desktop\JP45\JP\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\domes\Desktop\JP45\JP\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\domes\Desktop\JP45\JP\TestConsole\bin\Debug\LIB.dll
+C:\Users\domes\Desktop\JP45\JP\TestConsole\bin\Debug\LIB.pdb
+C:\Users\domes\Desktop\JP45\JP\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Users\domes\Desktop\JP45\JP\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\domes\Desktop\JP45\JP\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Users\domes\Desktop\JP45\JP\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\domes\Desktop\JP45\JP\TestConsole\obj\Debug\TestConsole.pdb
+C:\Users\domes\Documents\faks_razno\diplomski\jp\JP45\JP\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\domes\Documents\faks_razno\diplomski\jp\JP45\JP\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\domes\Documents\faks_razno\diplomski\jp\JP45\JP\TestConsole\obj\Debug\TestConsole.pdb

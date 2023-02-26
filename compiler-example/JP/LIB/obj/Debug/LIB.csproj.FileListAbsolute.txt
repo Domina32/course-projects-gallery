@@ -1,0 +1,23 @@
+C:\TONI\Source2015\JP\LIB\bin\Debug\LIB.dll
+C:\TONI\Source2015\JP\LIB\bin\Debug\LIB.pdb
+C:\TONI\Source2015\JP\LIB\obj\Debug\LIB.dll
+C:\TONI\Source2015\JP\LIB\obj\Debug\LIB.pdb
+C:\TONI\Source2015\JP\LIB\obj\Debug\LIB.csprojResolveAssemblyReference.cache
+C:\MY\NASTAVA\JP\JP\LIB\bin\Debug\LIB.dll
+C:\MY\NASTAVA\JP\JP\LIB\bin\Debug\LIB.pdb
+C:\MY\NASTAVA\JP\JP\LIB\obj\Debug\LIB.dll
+C:\MY\NASTAVA\JP\JP\LIB\obj\Debug\LIB.pdb
+D:\FAKS\JEZICNI PROCESORI\JP\LIB\bin\Debug\LIB.dll
+D:\FAKS\JEZICNI PROCESORI\JP\LIB\bin\Debug\LIB.pdb
+D:\FAKS\JEZICNI PROCESORI\JP\LIB\obj\Debug\LIB.csprojAssemblyReference.cache
+D:\FAKS\JEZICNI PROCESORI\JP\LIB\obj\Debug\LIB.csproj.CoreCompileInputs.cache
+D:\FAKS\JEZICNI PROCESORI\JP\LIB\obj\Debug\LIB.dll
+D:\FAKS\JEZICNI PROCESORI\JP\LIB\obj\Debug\LIB.pdb
+C:\MY\NASTAVA\JP\JP\LIB\obj\Debug\LIB.csprojAssemblyReference.cache
+C:\MY\NASTAVA\JP\JP\LIB\obj\Debug\LIB.csproj.CoreCompileInputs.cache
+C:\Users\domes\Desktop\JP45\JP\LIB\bin\Debug\LIB.dll
+C:\Users\domes\Desktop\JP45\JP\LIB\bin\Debug\LIB.pdb
+C:\Users\domes\Desktop\JP45\JP\LIB\obj\Debug\LIB.csprojAssemblyReference.cache
+C:\Users\domes\Desktop\JP45\JP\LIB\obj\Debug\LIB.csproj.CoreCompileInputs.cache
+C:\Users\domes\Desktop\JP45\JP\LIB\obj\Debug\LIB.dll
+C:\Users\domes\Desktop\JP45\JP\LIB\obj\Debug\LIB.pdb

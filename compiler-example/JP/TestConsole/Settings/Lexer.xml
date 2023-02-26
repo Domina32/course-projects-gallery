@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rules>
+  <rule class="literal" attribute="INT" regex="[0-9]+" />
+  <rule class="literal" attribute="REAL" regex="[0-9]*\.[0-9]+" />
+  <rule class="keyword" attribute="this" regex="učitati|ispisati|ako|onda" />
+  <rule class="operator" attribute="this" regex="[+\-*()/%!]"/>
+  <rule class="operator" attribute="this" regex="[=&gt;&lt;!]=?" />
+  <rule class="syntax" attribute="this" regex="[;{}]" />
+  <rule class="eof" attribute="EOF" regex="EOF" />
+  <rule class="eol" attribute="EOL" regex="EOL|eol" />
+  <rule class="idn" attribute="idn" regex="[_a-zA-ZčČćĆđĐžŽ][_a-zA-Z0-9čČćĆđĐžŽ]*" />
+  <rule class="ignore" attribute="white" regex="[\n\r\t ]+" />
+</rules>
